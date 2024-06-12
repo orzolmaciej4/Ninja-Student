@@ -1,0 +1,1 @@
+settings = {"global_difficulty": "Normal"}
